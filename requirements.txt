@@ -3,7 +3,7 @@ azure-cognitiveservices-speech
 pydub~=0.25.1
 Click==7.0
 Flask-Sockets==0.2.1
-gevent==1.4.0
+gevent==22.10.2
 gevent-websocket==0.10.1
 greenlet==0.4.15
 itsdangerous==1.1.0
